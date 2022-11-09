@@ -24,6 +24,14 @@
     background-color: #ffcd0d;
 }
 
+.bg-green{
+    background-color: #00e165;
+}
+
+.bg-blue{
+    background-color: #001533;
+}
+
 /*framework patch*/
 
 .col-1{
