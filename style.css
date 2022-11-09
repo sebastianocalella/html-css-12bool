@@ -1,0 +1,16 @@
+/*RESET*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.blue-object{
+    height: 4rem;
+    border: 2px solid white;
+    color: white;
+    line-height: 3.5rem;
+    text-align: center;
+    background-color: #006cfa;
+}
