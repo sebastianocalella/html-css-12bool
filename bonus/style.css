@@ -1,0 +1,93 @@
+/*RESET*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*utilities*/
+
+.bg-white{
+    background-color: white;
+}
+
+.bg-black{
+    background-color: black;
+}
+
+.bg-orange{
+    background-color: #ff6600;
+}
+
+.bg-yellow{
+    background-color: #ffcd0d;
+}
+
+/*framework patch*/
+
+.col-1{
+    aspect-ratio: 1 / 1;
+}
+
+.col-2{
+    aspect-ratio: 2 / 1;
+}
+
+.col-3{
+    aspect-ratio: 3 / 1;
+}
+
+.col-4{
+    aspect-ratio: 4 / 1;
+}
+
+.col-5{
+    aspect-ratio: 5 / 1;
+}
+
+.col-6{
+    aspect-ratio: 6 / 1;
+}
+
+.col-7{
+    aspect-ratio: 7 / 1;
+}
+
+.col-8{
+    aspect-ratio: 8 / 1;
+}
+
+.col-9{
+    aspect-ratio: 9 / 1;
+}
+
+.col-10{
+    aspect-ratio: 10 / 1;
+}
+
+.col-{
+    aspect-ratio: 11 / 1;
+}
+
+.col-12{
+    aspect-ratio: 12 / 1;
+}
+
+/*style*/
+
+body{
+    padding: 5%;
+    background-color: wheat;
+}
+
+.container>.row{
+    width: 100%;
+}
+
+.row{
+    flex-grow: 1;
+}
+
+
+
