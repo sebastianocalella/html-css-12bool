@@ -14,3 +14,22 @@
     text-align: center;
     background-color: #006cfa;
 }
+
+.blue-container{
+    border: 2px solid white;
+    color: white;
+    text-align: center;
+    background-color: #006cfa;
+    padding: 1rem;
+}
+
+.nested-object{
+    height: 3rem;
+    border: 2px solid #006cfa;
+    color: white;
+    line-height: 2.8rem;
+    text-align: center;
+    background-color: #01e165;
+}
+
+
