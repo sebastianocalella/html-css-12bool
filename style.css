@@ -6,6 +6,10 @@
     box-sizing: border-box;
 }
 
+body>div.container{
+    margin-bottom: 1rem;
+}
+
 .blue-object{
     height: 4rem;
     border: 2px solid white;
